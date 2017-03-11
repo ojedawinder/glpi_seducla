@@ -1,0 +1,1156 @@
+2016-04-28 20:17:33 [@VGODOY-LAPTOP]
+Internal #1: Launch createinquest
+2016-04-28 20:17:51 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-04-28 20:17:54 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-04-28 20:18:07 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-04-28 20:19:23 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-04-28 20:26:00 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-04-28 20:26:34 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-04-28 20:37:01 [15@VGODOY-LAPTOP]
+Internal #1: Launch queuedmailclean
+2016-04-28 20:37:04 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-04-28 20:37:59 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgateerror
+2016-04-28 20:38:37 [@VGODOY-LAPTOP]
+Internal #1: Launch alertnotclosed
+2016-04-28 20:40:12 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-04-29 17:56:05 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgate
+2016-04-29 18:03:22 [2@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-04-29 18:08:22 [2@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-04-29 18:16:27 [2@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-04-29 18:28:30 [2@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-04-29 18:42:32 [2@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-04-29 18:57:36 [2@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-04-29 19:02:36 [2@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-02 17:18:07 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-02 17:23:12 [2@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-02 17:51:25 [2@VGODOY-LAPTOP]
+Internal #1: Launch queuedmailclean
+2016-05-02 17:58:41 [2@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-02 18:04:35 [2@VGODOY-LAPTOP]
+Internal #1: Launch mailgateerror
+2016-05-02 18:11:29 [2@VGODOY-LAPTOP]
+Internal #1: Launch alertnotclosed
+2016-05-02 18:46:40 [2@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-02 18:52:30 [2@VGODOY-LAPTOP]
+Internal #1: Launch mailgate
+2016-05-02 20:59:38 [2@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-05-02 21:04:43 [2@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-05-02 21:09:49 [2@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-03 03:32:41 [@VGODOY-LAPTOP]
+Internal #1: Launch closeticket
+2016-05-03 03:39:14 [2@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-05-03 03:45:44 [2@VGODOY-LAPTOP]
+Internal #1: Launch session
+2016-05-03 03:51:11 [2@VGODOY-LAPTOP]
+Internal #1: Launch createinquest
+2016-05-03 04:00:49 [2@VGODOY-LAPTOP]
+Internal #1: Launch contract
+2016-05-03 04:06:48 [2@VGODOY-LAPTOP]
+Internal #1: Launch infocom
+2016-05-03 04:30:10 [2@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-03 04:36:34 [2@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-03 04:42:31 [2@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-03 04:46:54 [2@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-03 05:02:33 [2@VGODOY-LAPTOP]
+Internal #1: Launch mailgate
+2016-05-03 05:08:09 [2@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-05-03 05:16:53 [2@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-05-03 05:24:04 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-03 05:24:29 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-03 05:29:18 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-03 05:34:10 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-03 05:34:21 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgate
+2016-05-03 20:41:28 [@VGODOY-LAPTOP]
+Internal #1: Launch closeticket
+2016-05-03 20:44:37 [@VGODOY-LAPTOP]
+Internal #1: Launch alertnotclosed
+2016-05-03 20:49:35 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-05-03 20:57:39 [2@VGODOY-LAPTOP]
+Internal #1: Launch session
+2016-05-03 21:10:44 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar createinquest
+2016-05-04 18:45:26 [@VGODOY-LAPTOP]
+Internal #1: Launch contract
+2016-05-04 18:51:08 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar infocom
+2016-05-04 18:51:23 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgate
+2016-05-04 18:56:56 [11@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-04 19:02:29 [11@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-04 19:14:11 [11@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-04 19:29:42 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-05-04 19:49:06 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-05-04 19:51:34 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-04 20:01:35 [15@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-04 20:02:33 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmailclean
+2016-05-05 15:47:52 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgateerror
+2016-05-05 19:53:50 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-05-05 19:57:31 [@VGODOY-LAPTOP]
+Internal #1: Launch alertnotclosed
+2016-05-05 19:58:00 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-05 20:48:33 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar mailgate
+2016-05-05 20:48:52 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-05 20:49:33 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-05 20:51:33 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-05-05 20:52:28 [@VGODOY-LAPTOP]
+Internal #1: Launch session
+2016-05-05 20:54:52 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-05-05 20:55:19 [@VGODOY-LAPTOP]
+Internal #1: Launch createinquest
+2016-05-05 20:57:09 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-05-05 20:57:45 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-05 20:58:46 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-05 20:59:37 [@VGODOY-LAPTOP]
+Internal #1: Launch optimize
+2016-05-05 21:00:57 [@VGODOY-LAPTOP]
+Internal #1: Launch contract
+2016-05-05 21:02:15 [@VGODOY-LAPTOP]
+Internal #1: Launch infocom
+2016-05-05 21:06:17 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 19:20:13 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmailclean
+2016-05-06 19:21:58 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-06 19:22:11 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-06 19:23:12 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgate
+2016-05-06 19:23:52 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 19:26:07 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-05-06 19:26:29 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-05-06 19:27:28 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-06 19:28:40 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-06 19:43:02 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-05-06 19:43:18 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar alertnotclosed
+2016-05-06 19:48:31 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar mailgateerror
+2016-05-06 19:49:20 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 19:51:08 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-06 20:01:32 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-05-06 20:02:01 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgate
+2016-05-06 20:02:47 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 20:03:42 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-06 20:04:33 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 20:05:35 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 20:06:06 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 20:06:52 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-06 20:07:16 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 20:08:04 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 20:08:55 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-06 20:10:20 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 20:11:07 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 20:13:56 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-06 20:14:28 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 20:14:57 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgate
+2016-05-06 20:16:00 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-06 20:16:16 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-06 20:16:22 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-06 20:17:25 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-10 21:02:11 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-10 21:04:04 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-10 21:04:20 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-10 21:06:18 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgate
+2016-05-10 21:12:35 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-05-10 21:18:06 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-05-10 21:26:25 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-10 21:29:27 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-10 21:30:17 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-05-10 21:31:09 [@VGODOY-LAPTOP]
+Internal #1: Launch session
+2016-05-10 21:31:23 [@VGODOY-LAPTOP]
+Internal #1: Launch createinquest
+2016-05-10 21:31:45 [@VGODOY-LAPTOP]
+Internal #1: Launch contract
+2016-05-10 21:41:11 [@VGODOY-LAPTOP]
+Internal #1: Launch infocom
+2016-05-10 21:47:23 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-05-10 21:50:05 [@VGODOY-LAPTOP]
+Internal #1: Launch alertnotclosed
+2016-05-10 21:50:29 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmailclean
+2016-05-10 21:53:17 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgateerror
+2016-05-10 21:53:53 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-10 21:54:41 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-10 21:54:59 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-10 22:00:37 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar mailgate
+2016-05-10 22:04:40 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-10 22:11:13 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-05-10 22:16:35 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-10 22:22:18 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-05-10 22:23:35 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgate
+2016-05-10 22:28:46 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-05-10 22:35:52 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-05-10 22:47:40 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-05-10 22:49:33 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-10 22:56:39 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-05-10 22:56:41 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-10 22:57:13 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-10 23:04:36 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-05-10 23:09:46 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-05-13 16:54:19 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 17:01:08 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-05-13 19:09:55 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-13 19:10:05 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-05-13 19:15:12 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-05-13 19:23:48 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-13 19:24:26 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-13 19:24:28 [@VGODOY-LAPTOP]
+Internal #1: Launch closeticket
+2016-05-13 19:24:28 [@VGODOY-LAPTOP]
+Internal #1: Launch alertnotclosed
+2016-05-13 19:24:28 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-05-13 19:25:22 [@VGODOY-LAPTOP]
+Internal #1: Launch contract
+2016-05-13 19:26:24 [@VGODOY-LAPTOP]
+Internal #1: Launch session
+2016-05-13 19:26:25 [@VGODOY-LAPTOP]
+Internal #1: Launch createinquest
+2016-05-13 19:26:25 [@VGODOY-LAPTOP]
+Internal #1: Launch infocom
+2016-05-13 19:26:25 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmailclean
+2016-05-13 19:26:47 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgateerror
+2016-05-13 19:26:59 [@VGODOY-LAPTOP]
+Internal #1: Launch optimize
+2016-05-13 19:28:09 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 19:28:22 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-13 19:29:20 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-13 19:29:51 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 19:32:46 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 19:32:48 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-13 19:32:48 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-13 19:32:48 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-13 19:32:48 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-13 19:33:08 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 19:33:09 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-13 19:35:32 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 19:36:16 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-13 19:37:38 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 19:38:10 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 19:40:11 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-13 19:40:13 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 19:40:13 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-13 19:40:27 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-13 19:41:09 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 19:41:22 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-13 19:41:33 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-13 19:41:50 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-13 19:42:47 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 19:42:48 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-13 19:42:48 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-13 19:42:48 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-13 19:43:25 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 19:43:34 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-05-13 19:50:24 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-05-13 19:57:03 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-05-13 20:02:26 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-05-13 20:08:06 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-05-13 20:13:36 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-05-13 20:18:36 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-05-13 20:23:13 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-13 20:23:56 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-05-13 20:32:40 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-05-16 17:29:31 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-17 20:08:45 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-17 20:10:35 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-17 20:12:09 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-17 20:14:29 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-17 20:19:23 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-05-17 20:21:57 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-05-17 20:22:12 [@VGODOY-LAPTOP]
+Internal #1: Launch closeticket
+2016-05-17 20:28:03 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar alertnotclosed
+2016-05-17 20:28:09 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-05-17 20:28:58 [@VGODOY-LAPTOP]
+Internal #1: Launch contract
+2016-05-17 20:29:30 [@VGODOY-LAPTOP]
+Internal #1: Launch infocom
+2016-05-17 20:36:07 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar session
+2016-05-17 20:41:14 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar createinquest
+2016-05-17 20:43:44 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmailclean
+2016-05-17 20:46:21 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgateerror
+2016-05-17 20:47:37 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-17 20:48:32 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-17 20:51:07 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-17 20:51:32 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-17 20:52:26 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-17 20:53:14 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-17 20:55:07 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-17 20:57:29 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-17 14:34:08 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-17 14:38:52 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-17 14:39:14 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-17 14:47:00 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-17 14:53:17 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-05-17 16:09:08 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-17 16:15:11 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-05-17 16:15:45 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-17 16:16:27 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-05-17 16:29:40 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-05-17 16:29:43 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-17 16:38:36 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-17 16:44:08 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-05-17 16:46:47 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-18 10:01:17 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-18 12:28:16 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-05-18 12:28:20 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-18 12:37:16 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-05-18 12:47:58 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-05-18 12:50:50 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-05-18 12:51:25 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-18 12:57:10 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-05-18 12:59:14 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar alertnotclosed
+2016-05-20 10:41:43 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-20 10:53:52 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-05-20 10:53:57 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-20 10:55:11 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-23 12:53:29 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-05-23 12:53:41 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-05-23 12:53:58 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-23 12:54:09 [@VGODOY-LAPTOP]
+Internal #1: Launch contract
+2016-05-23 12:54:41 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-05-23 13:03:39 [8@VGODOY-LAPTOP]
+Interno #1: Lanzar infocom
+2016-05-23 13:10:11 [@VGODOY-LAPTOP]
+Internal #1: Launch session
+2016-05-23 13:11:44 [@VGODOY-LAPTOP]
+Internal #1: Launch createinquest
+2016-05-23 13:12:15 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmailclean
+2016-05-23 13:13:11 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgateerror
+2016-05-23 13:14:14 [@VGODOY-LAPTOP]
+Internal #1: Launch closeticket
+2016-05-23 13:14:47 [@VGODOY-LAPTOP]
+Internal #1: Launch alertnotclosed
+2016-05-23 13:16:40 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-23 13:20:51 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-23 13:26:03 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-05-24 10:22:52 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-05-24 10:29:17 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar optimize
+2016-05-24 10:43:53 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-05-24 10:49:59 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-05-24 10:55:20 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-05-24 11:00:54 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-05-24 11:01:05 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-24 11:03:52 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-05-24 11:09:13 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-05-24 11:13:15 [@VGODOY-LAPTOP]
+Internal #1: Launch alertnotclosed
+2016-05-24 11:16:29 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-24 11:17:44 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-24 11:18:32 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-24 11:26:47 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-05-24 11:27:38 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-24 11:29:21 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-05-24 11:42:00 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-24 11:49:19 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-05-24 11:49:28 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-24 11:53:54 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-24 11:54:21 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-05-24 11:59:52 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-05-24 12:08:10 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-05-24 12:08:13 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-05-24 12:19:34 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-05-24 12:22:47 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-25 13:34:02 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-05-25 13:34:13 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-25 16:26:46 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-05-25 16:36:10 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-26 10:26:16 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-05-26 10:29:00 [@VGODOY-LAPTOP]
+Internal #1: Launch contract
+2016-05-26 10:30:56 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-05-26 10:36:35 [@VGODOY-LAPTOP]
+Internal #1: Launch infocom
+2016-05-26 11:57:02 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar session
+2016-05-26 12:16:32 [@VGODOY-LAPTOP]
+Internal #1: Launch createinquest
+2016-05-26 12:22:31 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmailclean
+2016-05-26 12:27:32 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgateerror
+2016-05-26 12:28:49 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-05-26 12:33:01 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-05-26 12:40:29 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-05-26 12:46:04 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar alertnotclosed
+2016-05-26 12:54:46 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-26 12:54:55 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-05-27 10:23:37 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-05-27 10:29:11 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-05-27 10:33:35 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-05-27 10:37:01 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-05-27 10:43:04 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-05-27 10:48:21 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar reservation
+2016-05-27 10:48:30 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-05-27 10:55:03 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-05-27 11:11:22 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar alertnotclosed
+2016-05-27 11:25:37 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-05-27 11:25:43 [@VGODOY-LAPTOP]
+Internal #1: Launch contract
+2016-05-27 11:28:18 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-05-27 11:28:26 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-05-27 11:29:09 [@VGODOY-LAPTOP]
+Internal #1: Launch infocom
+2016-05-27 11:29:43 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-06-02 10:41:40 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-06-02 10:42:17 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-06-02 10:50:14 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-06-02 10:56:58 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-06-02 11:11:38 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-06-02 11:14:11 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar reservation
+2016-06-02 11:36:40 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-06-02 11:48:16 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar session
+2016-06-02 11:53:48 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar createinquest
+2016-06-02 12:37:49 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmailclean
+2016-06-02 12:43:25 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar mailgateerror
+2016-06-02 12:52:45 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-06-06 14:21:54 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar alertnotclosed
+2016-06-06 14:53:56 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar contract
+2016-06-06 15:01:07 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar watcher
+2016-06-06 15:07:12 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar infocom
+2016-06-06 15:14:50 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar optimize
+2016-06-06 15:20:53 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-06-06 15:53:59 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-06-06 15:59:09 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-06-06 15:59:37 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-06-06 16:00:52 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-06-06 16:06:07 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar reservation
+2016-06-06 16:12:02 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-06-06 16:18:01 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-06-06 16:23:25 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar session
+2016-06-06 16:33:07 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar createinquest
+2016-06-09 11:34:24 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmailclean
+2016-06-09 11:34:37 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgateerror
+2016-06-09 11:35:16 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-06-09 11:35:50 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-06-09 11:41:06 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-06-09 11:47:28 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-06-09 11:51:33 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-06-09 11:52:00 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-06-09 11:53:34 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-06-09 11:59:04 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar alertnotclosed
+2016-06-09 12:04:43 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-06-09 12:37:12 [15@VGODOY-LAPTOP]
+Interno #1: Lanzar contract
+2016-06-10 11:55:18 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-06-10 12:10:46 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar infocom
+2016-06-10 12:16:10 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar session
+2016-06-10 12:21:16 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar createinquest
+2016-07-14 09:07:41 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-07-14 09:10:50 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-07-14 09:12:13 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-07-14 09:13:48 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-07-14 09:15:15 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-07-14 09:15:25 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-07-14 09:18:16 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-07-14 09:19:49 [@VGODOY-LAPTOP]
+Internal #1: Launch alertnotclosed
+2016-07-14 09:27:06 [@VGODOY-LAPTOP]
+Internal #1: Launch closeticket
+2016-07-14 09:28:28 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmailclean
+2016-07-25 09:40:30 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgateerror
+2016-07-25 09:46:04 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar contract
+2016-07-25 09:48:09 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-07-25 09:48:19 [@VGODOY-LAPTOP]
+Internal #1: Launch infocom
+2016-07-25 09:48:48 [@VGODOY-LAPTOP]
+Internal #1: Launch session
+2016-07-25 09:51:50 [@VGODOY-LAPTOP]
+Internal #1: Launch createinquest
+2016-07-25 09:57:00 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar optimize
+2016-07-25 10:02:47 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-25 10:07:51 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-25 10:25:52 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-25 10:26:06 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-07-25 10:30:52 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-07-25 10:36:00 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar reservation
+2016-07-25 10:41:02 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-07-25 10:48:20 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar alertnotclosed
+2016-07-25 10:54:00 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-07-25 11:00:07 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmailclean
+2016-07-25 11:05:48 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-25 11:10:54 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-25 11:16:41 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-25 11:21:58 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-25 11:26:27 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-07-26 08:25:47 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-07-26 08:31:26 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-26 08:36:46 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-07-26 08:43:20 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-07-26 08:54:46 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-26 08:56:00 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar reservation
+2016-07-26 08:56:31 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-07-26 08:59:17 [@VGODOY-LAPTOP]
+Internal #1: Launch alertnotclosed
+2016-07-26 08:59:30 [@VGODOY-LAPTOP]
+Internal #1: Launch closeticket
+2016-07-26 09:00:47 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-07-26 09:01:04 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-07-26 09:02:05 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-07-26 10:00:56 [4@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-26 10:01:11 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-07-26 10:06:50 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-26 10:13:01 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-07-26 10:18:25 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar mailgateerror
+2016-07-26 10:24:11 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-07-26 10:30:16 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar contract
+2016-07-26 10:36:56 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar infocom
+2016-07-26 10:42:46 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar session
+2016-07-26 10:48:30 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar watcher
+2016-07-26 10:54:36 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar createinquest
+2016-07-26 11:00:45 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar reservation
+2016-07-26 11:06:08 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-07-26 11:11:40 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-26 11:18:57 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-26 11:19:31 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-26 11:30:07 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmailclean
+2016-07-26 11:35:33 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-26 11:40:41 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-07-26 11:47:42 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-26 11:52:49 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-07-26 11:57:07 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-07-26 11:57:19 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-07-26 12:01:14 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-07-26 12:01:24 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-07-26 12:01:59 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-07-26 12:03:28 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-07-26 12:05:02 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-07-26 12:11:37 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-26 12:17:28 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-26 12:23:10 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-07-26 12:28:13 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-26 12:33:14 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-26 12:38:21 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-26 12:44:41 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-26 12:49:47 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-26 12:56:27 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-07-26 13:03:52 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-26 13:11:40 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-26 13:17:11 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-26 13:17:45 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-07-26 13:17:55 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-07-26 13:18:40 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-07-26 13:18:51 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-07-26 13:19:36 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-07-26 13:19:48 [@VGODOY-LAPTOP]
+Internal #1: Nothing to launch
+2016-07-26 13:20:57 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-07-26 13:21:22 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-07-26 13:23:22 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-07-26 13:30:02 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-26 13:37:02 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-07-26 13:41:00 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-07-26 13:55:13 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-26 14:02:21 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-26 14:07:22 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-26 14:12:25 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-26 14:14:04 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-07-27 09:06:30 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-07-27 09:11:59 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-27 09:17:32 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-27 09:22:41 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-07-27 09:29:18 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar reservation
+2016-07-27 09:34:48 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-07-27 09:40:27 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-07-27 09:46:41 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-07-27 09:46:51 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar alertnotclosed
+2016-07-27 09:51:44 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-27 10:01:08 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-27 10:06:41 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-27 10:13:04 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-27 10:22:49 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-27 10:28:11 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-27 10:33:31 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-27 10:38:48 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar mailgateerror
+2016-07-27 10:39:20 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-07-27 10:43:10 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-07-27 10:43:49 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-07-27 10:44:12 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation
+2016-07-27 10:46:42 [@VGODOY-LAPTOP]
+Internal #1: Launch contract
+2016-07-27 10:47:46 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-07-27 10:53:11 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar infocom
+2016-07-27 10:58:31 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-27 11:04:16 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-07-27 11:09:37 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar session
+2016-07-27 11:15:24 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-27 11:20:48 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar watcher
+2016-07-27 11:25:57 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-07-27 11:32:04 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar createinquest
+2016-07-27 11:37:06 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-27 11:43:30 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-07-29 09:32:12 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-07-29 09:46:51 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmailclean
+2016-07-29 09:52:00 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-07-29 09:57:29 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-07-29 10:02:35 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-07-29 10:07:46 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar reservation
+2016-07-29 10:12:48 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-07-29 10:17:52 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar temp
+2016-07-29 10:23:04 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-07-29 10:28:14 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar alertnotclosed
+2016-07-29 10:34:57 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar mailgateerror
+2016-07-29 10:40:01 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar contract
+2016-07-29 10:45:03 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar infocom
+2016-07-29 10:46:16 [@VGODOY-LAPTOP]
+Internal #1: Launch session
+2016-09-22 10:39:00 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-10-11 08:34:58 [@VGODOY-LAPTOP]
+Internal #1: Launch createinquest
+2016-10-28 11:24:33 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2016-11-04 08:47:54 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-11-04 08:54:19 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-11-04 08:59:21 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-11-04 09:04:28 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar reservation
+2016-11-07 09:04:56 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2016-11-11 13:59:48 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-11-11 14:05:52 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-11-11 14:11:01 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar alertnotclosed
+2016-11-11 14:35:06 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmailclean
+2016-11-11 14:54:40 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar mailgateerror
+2016-11-11 15:46:57 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar contract
+2016-11-11 15:56:08 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar infocom
+2016-11-11 16:04:59 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar session
+2016-11-15 15:15:18 [@VGODOY-LAPTOP]
+Internal #1: Launch optimize
+2016-11-17 09:26:39 [@VGODOY-LAPTOP]
+Internal #1: Launch watcher
+2016-11-17 09:35:43 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar createinquest
+2016-11-17 09:40:44 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-11-17 09:48:58 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar slaticket
+2016-11-17 09:55:38 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmail
+2016-11-17 10:01:26 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar graph
+2016-11-17 14:01:19 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar reservation
+2016-11-17 15:04:03 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar ticketrecurrent
+2016-11-18 14:00:45 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2016-11-18 14:16:45 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar closeticket
+2016-11-21 09:00:21 [@VGODOY-LAPTOP]
+Internal #1: Launch alertnotclosed
+2016-11-21 09:05:38 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar queuedmailclean
+2016-11-21 16:11:58 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgateerror
+2016-11-21 16:25:31 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar contract
+2016-11-21 16:30:53 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar infocom
+2016-11-30 10:02:33 [@VGODOY-LAPTOP]
+Internal #1: Launch session
+2016-11-30 10:14:54 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar planningrecall
+2016-11-30 10:14:56 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2016-12-01 16:27:59 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2016-12-05 10:27:49 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2016-12-05 10:32:58 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar reservation
+2017-01-10 11:37:29 [@VGODOY-LAPTOP]
+Internal #1: Launch ticketrecurrent
+2017-01-10 11:44:03 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar watcher
+2017-01-10 11:49:08 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar createinquest
+2017-01-10 11:53:32 [@VGODOY-LAPTOP]
+Internal #1: Launch temp
+2017-01-27 11:51:46 [@VGODOY-LAPTOP]
+Internal #1: Launch closeticket
+2017-01-27 11:58:03 [2@VGODOY-LAPTOP]
+Interno #1: Lanzar alertnotclosed
+2017-01-31 11:22:01 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmailclean
+2017-02-06 10:15:34 [@VGODOY-LAPTOP]
+Internal #1: Launch optimize
+2017-03-02 15:16:32 [@VGODOY-LAPTOP]
+Internal #1: Launch mailgateerror
+2017-03-02 16:10:39 [@VGODOY-LAPTOP]
+Internal #1: Launch contract
+2017-03-02 16:10:58 [@VGODOY-LAPTOP]
+Internal #1: Launch infocom
+2017-03-02 16:15:10 [@VGODOY-LAPTOP]
+Internal #1: Launch slaticket
+2017-03-02 16:15:40 [@VGODOY-LAPTOP]
+Internal #1: Launch planningrecall
+2017-03-02 16:19:24 [@VGODOY-LAPTOP]
+Internal #1: Launch session
+2017-03-02 16:23:04 [@VGODOY-LAPTOP]
+Internal #1: Launch queuedmail
+2017-03-02 16:30:33 [@VGODOY-LAPTOP]
+Internal #1: Launch graph
+2017-03-02 16:33:45 [@VGODOY-LAPTOP]
+Internal #1: Launch reservation

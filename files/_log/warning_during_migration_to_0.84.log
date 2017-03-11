@@ -1,0 +1,9 @@
+2016-04-28 20:25:39 [@VGODOY-LAPTOP]
+To be safe, we are working on origin_glpi_networkports. It is a copy of glpi_networkports @ 2016-04-28 20:25:39 [@VGODOY-LAPTOP]
+To be safe, we are working on origin_glpi_networkequipments. It is a copy of glpi_networkequipments @ 2016-04-28 20:25:43 [@VGODOY-LAPTOP]
+You can delete ocs_* tables if you use OCS mode ONLY AFTER ocsinventoryng plugin installation. @ 2016-04-28 20:25:43 [@VGODOY-LAPTOP]
+You can delete ocs_* tables if you do not use OCS synchronisation. @ 2016-05-02 17:16:10 [@VGODOY-LAPTOP]
+To be safe, we are working on origin_glpi_networkports. It is a copy of glpi_networkports @ 2016-05-02 17:16:10 [@VGODOY-LAPTOP]
+To be safe, we are working on origin_glpi_networkequipments. It is a copy of glpi_networkequipments @ 2016-05-02 17:16:14 [@VGODOY-LAPTOP]
+You can delete ocs_* tables if you use OCS mode ONLY AFTER ocsinventoryng plugin installation. @ 2016-05-02 17:16:14 [@VGODOY-LAPTOP]
+You can delete ocs_* tables if you do not use OCS synchronisation. @ 

@@ -1,0 +1,1328 @@
+2016-05-27 10:46:58 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets.php:46                             Search::show()
+2016-05-27 10:47:35 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets.php:46                             Search::show()
+2016-05-27 10:48:20 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets.php:46                             Search::show()
+2016-05-27 10:48:39 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets.php:46                             Search::show()
+2016-05-27 10:48:51 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets.php:46                             Search::show()
+2016-05-27 10:50:13 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets.php:46                             Search::show()
+2016-05-27 10:57:14 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassetsdecanatos.php:43                    Search::show()
+2016-05-27 11:11:22 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassetsdecanatos.php:43                    Search::show()
+2016-06-02 10:50:16 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassetsdecanatos.php:43                    Search::show()
+2016-06-02 10:50:55 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassetsdecanatos.php:43                    Search::show()
+2016-06-02 10:56:58 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassetsdecanatos.php:43                    Search::show()
+2016-06-02 11:14:46 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:15:28 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:16:10 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:16:24 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:16:37 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:36:39 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:39:12 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:39:34 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:39:51 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:40:22 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:40:24 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:40:24 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:40:24 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:48:16 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:48:18 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:48:38 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:48:39 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:48:40 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:48:40 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:49:01 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:49:03 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:49:03 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:49:29 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:49:30 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:49:31 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:52:34 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:52:43 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:52:50 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:52:52 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:52:52 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:53:48 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:53:49 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:53:59 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:54:01 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:54:01 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:54:01 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:54:15 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:54:17 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:54:17 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 11:55:34 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:37:49 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:38:03 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:39:59 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:40:00 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:40:00 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:40:01 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:40:31 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:43:25 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:43:26 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:44:21 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:44:23 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:44:23 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:44:23 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:44:32 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:45:44 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:46:05 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:46:16 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:47:06 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:47:19 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:52:45 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:52:46 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-02 12:52:46 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 14:21:53 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 14:25:16 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 14:53:56 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 14:55:14 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:01:07 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:01:09 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:01:09 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:01:10 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:07:11 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:07:15 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:07:15 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:07:15 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:14:49 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:14:55 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:14:55 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:14:55 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:14:59 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:15:41 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:15:42 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:15:43 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:15:43 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:15:43 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:20:53 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:20:55 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:20:55 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:20:55 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:20:59 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:21:29 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:21:53 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:21:55 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:21:55 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:21:55 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:22:28 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:22:29 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:22:29 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:22:29 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:22:30 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:22:54 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:23:17 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:53:58 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:54:50 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:54:51 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:54:51 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 15:59:15 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\searchDecanatos.class.php:903                  
+  inc\searchDecanatos.class.php:98                   SearchDecanatos::constructDatas()
+  inc\searchDecanatos.class.php:81                   SearchDecanatos::showList()
+  front\allassetsdecanatos.php:43                    SearchDecanatos::show()
+2016-06-06 16:33:41 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL:  `glpi_computers`.`name` AS `ITEM_0`,
+                        `glpi_computers`.`id` AS `ITEM_0_id`,
+                        
+                        `glpi_states`.`completename` AS `ITEM_1`,  `glpi_manufacturers`.`name` AS `ITEM_2`,  `glpi_computers`.`serial` AS `ITEM_3`,  `glpi_computertypes`.`name` AS `ITEM_4`,  `glpi_computermodels`.`name` AS `ITEM_5`,  `glpi_locations`.`completename` AS `ITEM_6`,  `glpi_computers`.`date_mod` AS `ITEM_7`,  `glpi_computers`.`contact` AS `ITEM_8`,  `glpi_computers`.`id` AS id  FROM `glpi_computers`LEFT JOIN `glpi_states` 
+                                          ON (`glpi_computers`.`states_id` = `glpi_states`.`id`
+                                              )LEFT JOIN `glpi_manufacturers` 
+                                          ON (`glpi_computers`.`manufacturers_id` = `glpi_manufacturers`.`id`
+                                              )LEFT JOIN `glpi_computertypes` 
+                                          ON (`glpi_computers`.`computertypes_id` = `glpi_computertypes`.`id`
+                                              )LEFT JOIN `glpi_computermodels` 
+                                          ON (`glpi_computers`.`computermodels_id` = `glpi_computermodels`.`id`
+                                              )LEFT JOIN `glpi_locations` 
+                                          ON (`glpi_computers`.`locations_id` = `glpi_locations`.`id`
+                                              ) WHERE  `glpi_computers`.`is_deleted` = \'0\'  AND `glpi_computers`.`is_template` = \'0\'  ORDER BY ITEM_0 ASC  LIMIT 0, 15
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`glpi_computers`.`name` AS `ITEM_0`,
+                        `glpi_computers`.`' at line 1
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\computer.php:44                              Search::show()
+2016-06-09 11:41:16 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets.php:46                             Search::show()
+2016-06-09 11:41:49 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets.php:46                             Search::show()
+2016-06-09 11:47:27 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets.php:46                             Search::show()
+2016-06-09 11:47:49 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets.php:46                             Search::show()
+2016-06-09 11:51:00 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets.php:45                             Search::show()
+2016-06-09 11:53:42 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets_Decanatos.php:45                   Search::show()
+2016-06-09 11:56:57 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets_Decanatos.php:84                   Search::show()
+2016-06-09 11:57:00 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets_Decanatos.php:84                   Search::show()
+2016-06-09 11:58:10 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets_Decanatos.php:44                   Search::show()
+2016-06-09 11:59:03 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets_Decanatos.php:45                   Search::show()
+2016-06-09 11:59:14 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets_Decanatos.php:45                   Search::show()
+2016-06-09 12:01:01 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets_Decanatos.php:45                   Search::show()
+2016-06-09 12:01:04 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets_Decanatos.php:45                   Search::show()
+2016-06-09 12:01:12 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets_Decanatos.php:45                   Search::show()
+2016-06-09 12:01:14 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search.class.php:903                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\allassets_Decanatos.php:45                   Search::show()
+2016-06-09 12:04:43 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:903                  
+  inc\search_decanato.class.php:98                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:81                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
+2016-06-09 12:04:51 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:903                  
+  inc\search_decanato.class.php:98                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:81                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
+2016-06-09 12:04:58 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:903                  
+  inc\search_decanato.class.php:98                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:81                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
+2016-06-09 12:05:28 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:904                  
+  inc\search_decanato.class.php:99                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:82                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
+2016-06-09 12:05:40 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:904                  
+  inc\search_decanato.class.php:99                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:82                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
+2016-06-09 12:05:41 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:904                  
+  inc\search_decanato.class.php:99                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:82                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
+2016-06-09 12:05:50 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:904                  
+  inc\search_decanato.class.php:99                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:82                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
+2016-06-09 12:05:52 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:904                  
+  inc\search_decanato.class.php:99                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:82                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
+2016-06-09 12:37:18 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:904                  
+  inc\search_decanato.class.php:99                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:82                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
+2016-06-09 12:37:27 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:904                  
+  inc\search_decanato.class.php:99                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:82                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
+2016-07-14 09:20:20 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:904                  
+  inc\search_decanato.class.php:99                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:82                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
+2016-07-14 09:29:00 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:904                  
+  inc\search_decanato.class.php:99                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:82                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
+2017-03-02 16:15:21 [15@VGODOY-LAPTOP]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  inc\search_decanato.class.php:904                  
+  inc\search_decanato.class.php:99                   Search_decanato::constructDatas()
+  inc\search_decanato.class.php:82                   Search_decanato::showList()
+  front\allassets_Decanatos.php:45                   Search_decanato::show()
