@@ -425,7 +425,7 @@ class Search {
       }
       
       //verificar si es super admin o administrador para los criterios
-      if($_SESSION['glpilocations']!==0 && ($_SESSION["glpiactiveprofile"]["name"]!=='admin' || $_SESSION["glpiactiveprofile"]["name"]!=='super-admin')){
+      if($_SESSION['glpilocations']!==0 && $_SESSION["glpiactiveprofile"]["name"]!=='admin' && $_SESSION["glpiactiveprofile"]["name"]!=='super-admin'){
         $LINK = " AND " ;
         if ($first) {
           $LINK  = " ";
