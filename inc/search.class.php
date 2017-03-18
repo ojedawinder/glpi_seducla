@@ -875,7 +875,6 @@ class Search {
                   $LIMIT;
       }
       $data['sql']['search'] = $QUERY;
-      echo $QUERY;
    }
 
 
