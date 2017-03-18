@@ -431,7 +431,7 @@ class Search {
           $LINK  = " ";
           $first = false;
         }
-        $COMMONWHERE .= $LINK."`$itemtable`.`locations_id` = '".self::getLocationsFromUser()."' ";      
+        $COMMONWHERE .= $LINK."`$itemtable`.`locations_id` IN (".self::getLocationsFromUser().") ";      
       }
 
 
@@ -884,12 +884,28 @@ class Search {
    **/
    static function getLocationsFromUser() {
       global $CFG_GLPI;
+      $locations_id = array();
+
       $DBread = DBConnection::getReadConnection();
       $DBread->query("SET SESSION group_concat_max_len = 16384;");    
-      $sql = "SELECT locations_id from glpi_locations Where glpi_locations.id =".$_SESSION['glpilocations'];  
+      
+      $glpilocations = $_SESSION['glpilocations'];
+      array_push($locations_id,$glpilocations );
+      $sql = "SELECT id, locations_id from glpi_locations Where glpi_locations.locations_id =".$glpilocations;  
+
       $result = $DBread->query($sql);
-      $row = $DBread->fetch_assoc($result);
-      return $row["locations_id"];
+      $numrows = $DBread->numrows($result);
+   
+      if($numrows>0){
+        $i = 0;
+        while($i < $numrows){
+          $row = $DBread->fetch_assoc($result);
+          array_push($locations_id,$row["id"]);
+          $i++;
+        }  
+      }
+      $locations_id = implode(",", $locations_id);
+      return $locations_id;
    }
 
 
