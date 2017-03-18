@@ -145,6 +145,8 @@ class Search {
       $p['start']               = 0;//
       $p['is_deleted']          = 0;
       $p['export_all']          = 0;
+  
+
       if (class_exists($itemtype)) {
          $p['target']       = $itemtype::getSearchURL();
       } else {
@@ -421,6 +423,18 @@ class Search {
                                                        $data['item']->maybeRecursive());
          }
       }
+      
+      //verificar si es super admin o administrador para los criterios
+      if($_SESSION['glpilocations']!==0 && ($_SESSION["glpiactiveprofile"]["name"]!=='admin' || $_SESSION["glpiactiveprofile"]["name"]!=='super-admin')){
+        $LINK = " AND " ;
+        if ($first) {
+          $LINK  = " ";
+          $first = false;
+        }
+        $COMMONWHERE .= $LINK."`$itemtable`.`locations_id` = '".self::getLocationsFromUser()."' ";      
+      }
+
+
       $WHERE  = "";
       $HAVING = "";
 
@@ -861,6 +875,22 @@ class Search {
                   $LIMIT;
       }
       $data['sql']['search'] = $QUERY;
+      echo $QUERY;
+   }
+
+
+      /**
+    * Recibe la localizacion de la entidad matriz a la que pertenece el usuario
+    * Author: Winder Ojeda
+   **/
+   static function getLocationsFromUser() {
+      global $CFG_GLPI;
+      $DBread = DBConnection::getReadConnection();
+      $DBread->query("SET SESSION group_concat_max_len = 16384;");    
+      $sql = "SELECT locations_id from glpi_locations Where glpi_locations.id =".$_SESSION['glpilocations'];  
+      $result = $DBread->query($sql);
+      $row = $DBread->fetch_assoc($result);
+      return $row["locations_id"];
    }
 
 

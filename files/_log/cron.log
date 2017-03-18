@@ -1154,3 +1154,47 @@ Internal #1: Launch queuedmail
 Internal #1: Launch graph
 2017-03-02 16:33:45 [@VGODOY-LAPTOP]
 Internal #1: Launch reservation
+2017-03-16 08:19:16 [@winder-VirtualBox]
+Internal #1: Launch ticketrecurrent
+2017-03-16 08:19:26 [@winder-VirtualBox]
+Internal #1: Launch temp
+2017-03-18 09:24:49 [@winder-VirtualBox]
+Internal #1: Launch watcher
+2017-03-18 09:52:15 [2@winder-VirtualBox]
+Interno #1: Lanzar createinquest
+2017-03-18 09:59:21 [2@winder-VirtualBox]
+Interno #1: Lanzar closeticket
+2017-03-18 10:14:35 [2@winder-VirtualBox]
+Interno #1: Lanzar alertnotclosed
+2017-03-18 10:20:49 [2@winder-VirtualBox]
+Interno #1: Lanzar queuedmailclean
+2017-03-18 10:25:54 [2@winder-VirtualBox]
+Interno #1: Lanzar optimize
+2017-03-18 10:32:24 [2@winder-VirtualBox]
+Interno #1: Lanzar slaticket
+2017-03-18 10:37:44 [2@winder-VirtualBox]
+Interno #1: Lanzar planningrecall
+2017-03-18 10:41:05 [@winder-VirtualBox]
+Internal #1: Launch queuedmail
+2017-03-18 10:41:34 [@winder-VirtualBox]
+Internal #1: Launch graph
+2017-03-18 10:52:43 [2@winder-VirtualBox]
+Interno #1: Lanzar reservation
+2017-03-18 11:20:54 [2@winder-VirtualBox]
+Interno #1: Lanzar mailgateerror
+2017-03-18 11:33:43 [2@winder-VirtualBox]
+Interno #1: Lanzar contract
+2017-03-18 11:49:32 [2@winder-VirtualBox]
+Interno #1: Lanzar infocom
+2017-03-18 11:56:07 [2@winder-VirtualBox]
+Interno #1: Lanzar session
+2017-03-18 11:57:22 [@winder-VirtualBox]
+Internal #1: Launch ticketrecurrent
+2017-03-18 12:12:15 [15@winder-VirtualBox]
+Interno #1: Lanzar temp
+2017-03-18 12:22:11 [15@winder-VirtualBox]
+Interno #1: Lanzar slaticket
+2017-03-18 12:27:25 [15@winder-VirtualBox]
+Interno #1: Lanzar queuedmail
+2017-03-18 12:39:40 [15@winder-VirtualBox]
+Interno #1: Lanzar planningrecall

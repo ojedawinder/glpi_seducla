@@ -11672,3 +11672,73 @@ Test
   inc\search_decanato.class.php:99                   Search_decanato::constructDatas()
   inc\search_decanato.class.php:82                   Search_decanato::showList()
   front\allassets_Decanatos.php:45                   Search_decanato::show()
+2017-03-18 10:21:47 [2@winder-VirtualBox]
+  *** PHP Warning(2): mkdir(): No such file or directory
+  Backtrace :
+  :                                                  
+  inc/toolbox.class.php:1480                         mkdir()
+  inc/config.class.php:1803                          Toolbox::testWriteAccessToDirectory()
+  inc/config.class.php:1489                          Config::checkWriteAccessToDirs()
+  inc/config.class.php:1752                          Config->showSystemInformations()
+  inc/commonglpi.class.php:469                       Config::displayTabContentForItem()
+  ajax/common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2017-03-18 10:21:47 [2@winder-VirtualBox]
+  *** PHP Warning(2): mkdir(): No such file or directory
+  Backtrace :
+  :                                                  
+  inc/toolbox.class.php:1480                         mkdir()
+  inc/config.class.php:1803                          Toolbox::testWriteAccessToDirectory()
+  inc/config.class.php:1489                          Config::checkWriteAccessToDirs()
+  inc/config.class.php:1752                          Config->showSystemInformations()
+  inc/commonglpi.class.php:469                       Config::displayTabContentForItem()
+  ajax/common.tabs.php:91                            CommonGLPI::displayStandardTab()
+Test
+2017-03-18 10:22:02 [2@winder-VirtualBox]
+  *** PHP Warning(2): mkdir(): No such file or directory
+  Backtrace :
+  :                                                  
+  inc/toolbox.class.php:1480                         mkdir()
+  inc/config.class.php:1803                          Toolbox::testWriteAccessToDirectory()
+  inc/config.class.php:1489                          Config::checkWriteAccessToDirs()
+  inc/config.class.php:1752                          Config->showSystemInformations()
+  inc/commonglpi.class.php:469                       Config::displayTabContentForItem()
+  inc/commonglpi.class.php:444                       CommonGLPI::displayStandardTab()
+  ajax/common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2017-03-18 10:22:02 [2@winder-VirtualBox]
+  *** PHP Warning(2): mkdir(): No such file or directory
+  Backtrace :
+  :                                                  
+  inc/toolbox.class.php:1480                         mkdir()
+  inc/config.class.php:1803                          Toolbox::testWriteAccessToDirectory()
+  inc/config.class.php:1489                          Config::checkWriteAccessToDirs()
+  inc/config.class.php:1752                          Config->showSystemInformations()
+  inc/commonglpi.class.php:469                       Config::displayTabContentForItem()
+  inc/commonglpi.class.php:444                       CommonGLPI::displayStandardTab()
+  ajax/common.tabs.php:91                            CommonGLPI::displayStandardTab()
+Test
+2017-03-18 11:10:59 [2@winder-VirtualBox]
+  *** PHP Notice(8): Undefined index: glpiLocations_id
+  Backtrace :
+  front/central.php:43                               
+2017-03-18 11:11:08 [2@winder-VirtualBox]
+  *** PHP Notice(8): Undefined index: glpilocations_id
+  Backtrace :
+  front/central.php:43                               
+2017-03-18 11:11:10 [2@winder-VirtualBox]
+  *** PHP Notice(8): Undefined index: glpilocations_id
+  Backtrace :
+  front/central.php:43                               
+2017-03-18 12:28:09 [15@winder-VirtualBox]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc/search.class.php:152                           
+  inc/search.class.php:96                            Search::prepareDatasForSearch()
+  inc/search.class.php:81                            Search::showList()
+  front/computer.php:44                              Search::show()
+2017-03-18 12:28:26 [15@winder-VirtualBox]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc/search.class.php:152                           
+  inc/search.class.php:96                            Search::prepareDatasForSearch()
+  inc/search.class.php:81                            Search::showList()
+  front/computer.php:44                              Search::show()
