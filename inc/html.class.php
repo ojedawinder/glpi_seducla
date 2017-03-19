@@ -2051,12 +2051,12 @@ class Html {
 	  
 	  //***MENU ANNADIDO POR VANESSA GODOY */
 
-	  /*  VER INVENTARIO DE SU DECANATO*/
+	  /*  VER INVENTARIO DE SU DECANATO
 	  
 	  echo "<li id='menuInventario'>";
 	  echo "<a href='".$CFG_GLPI["root_doc"]."/front/allassets_Decanatos.php' title=\"".
              __s('Assets')."\" class='itemP'>".__('Assets')."</a>";
-	  echo "</li>";
+	  echo "</li>";*/
 	  
 
       // display menu items
