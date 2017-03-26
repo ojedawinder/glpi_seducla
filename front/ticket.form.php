@@ -44,7 +44,7 @@ $track = new Ticket();
 if (!isset($_GET['id'])) {
    $_GET['id'] = "";
 }
-
+/*
 if (isset($_POST["add"])) {
    $track->check(-1, CREATE, $_POST);
 
@@ -160,7 +160,7 @@ if (isset($_POST["add"])) {
 
    Html::back();
 }
-
+*/
 if (isset($_GET["id"]) && ($_GET["id"] > 0)) {
    if ($_SESSION["glpiactiveprofile"]["interface"] == "helpdesk") {
       Html::helpHeader(Ticket::getTypeName(Session::getPluralNumber()), '', $_SESSION["glpiname"]);

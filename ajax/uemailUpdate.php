@@ -106,8 +106,17 @@ if ((isset($_POST['field']) && ($_POST["value"] > 0))
                                               array('value'   => '',
                                                     'display' => false));
    } else {
-      $email_string = "<input type='text' size='25' name='".$_POST['field']."[alternative_email][]'
+
+      if(!isAdminOrSuperAdmin()){
+         $email_string = "<input type='text' style='pointer-events:none' size='25' name='".$_POST['field']."[alternative_email][]'
                         value='".$default_email."'>";
+      }
+
+      else {
+        $email_string = "<input type='text' size='25' name='".$_POST['field']."[alternative_email][]'
+                        value='".$default_email."'>";
+      }   
+      
    }
 
    echo '<br>';
@@ -116,4 +125,13 @@ if ((isset($_POST['field']) && ($_POST["value"] > 0))
 }
 
 Ajax::commonDropdownUpdateItem($_POST);
+
+
+ function isAdminOrSuperAdmin(){
+     if($_SESSION["glpiactiveprofile"]["name"]!=='admin' && $_SESSION["glpiactiveprofile"]["name"]!=='super-admin'){
+      return false;
+     }
+     return true;
+   }
+
 ?>

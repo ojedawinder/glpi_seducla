@@ -6782,5 +6782,12 @@ class Ticket extends CommonITILObject {
       return $html;
    }
 
+   static function isAdminOrSuperAdmin(){
+     if($_SESSION["glpiactiveprofile"]["name"]!=='admin' && $_SESSION["glpiactiveprofile"]["name"]!=='super-admin'){
+      return false;
+     }
+     return true;
+   }
+
 }
 ?>

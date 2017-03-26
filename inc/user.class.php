@@ -3174,7 +3174,7 @@ class User extends CommonDBTM {
    **/
    static function dropdown($options=array()) {
       global $DB, $CFG_GLPI;
-
+      //print_r($options);
       // Default values
       $p['name']           = 'users_id';
       $p['value']          = '';
@@ -3291,6 +3291,7 @@ class User extends CommonDBTM {
          echo $output;
          return $p['rand'];
       }
+      echo $output;
       return $output;
    }
 
