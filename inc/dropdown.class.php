@@ -85,7 +85,11 @@ class Dropdown {
          return false;
       }
 
+
       $table = $item->getTable();
+
+      //echo $table;
+      //die();
 
       $params['name']                 = $item->getForeignKeyField();
       $params['value']                = (($itemtype == 'Entity') ? $_SESSION['glpiactive_entity'] : '');
@@ -151,7 +155,7 @@ class Dropdown {
 
 
       $field_id = Html::cleanId("dropdown_".$params['name'].$params['rand']);
-
+      //print_r($params) ;
       // Manage condition
       if (!empty($params['condition'])) {
         $params['condition'] = static::addNewCondition($params['condition']);
@@ -301,10 +305,23 @@ class Dropdown {
 
          }
 
-         $query = "SELECT `$table`.*, $SELECTNAME, $SELECTCOMMENT
+         //verificar si es super admin o administrador para los criterios
+      if($table =='glpi_locations' && $_SESSION['glpilocations']!==0 && $_SESSION["glpiactiveprofile"]["name"]!=='admin' && $_SESSION["glpiactiveprofile"]["name"]!=='super-admin'){
+       
+        $query = "SELECT `$table`.*, $SELECTNAME, $SELECTCOMMENT
+                   FROM `$table`
+                   $JOIN
+                   WHERE `$table`.`id` IN (".self::getLocationsFromUser().")";     
+      }
+      else {
+
+        $query = "SELECT `$table`.*, $SELECTNAME, $SELECTCOMMENT
                    FROM `$table`
                    $JOIN
                    WHERE `$table`.`id` = '$id'";
+      }
+
+   
 
          /// TODO review comment management...
          /// TODO getDropdownName need to return only name
@@ -404,6 +421,37 @@ class Dropdown {
 
       return $name;
    }
+
+   /**
+    * Recibe la localizacion de la entidad matriz a la que pertenece el usuario
+    * Author: Winder Ojeda
+  **/
+   static function getLocationsFromUser() {
+      global $CFG_GLPI;
+      $locations_id = array();
+
+      $DBread = DBConnection::getReadConnection();
+      $DBread->query("SET SESSION group_concat_max_len = 16384;");    
+      
+      $glpilocations = $_SESSION['glpilocations'];
+      array_push($locations_id,$glpilocations );
+      $sql = "SELECT id, locations_id from glpi_locations Where glpi_locations.locations_id =".$glpilocations;  
+
+      $result = $DBread->query($sql);
+      $numrows = $DBread->numrows($result);
+   
+      if($numrows>0){
+        $i = 0;
+        while($i < $numrows){
+          $row = $DBread->fetch_assoc($result);
+          array_push($locations_id,$row["id"]);
+          $i++;
+        }  
+      }
+      $locations_id = implode(",", $locations_id);
+      return $locations_id;
+   }
+
 
 
    /**

@@ -212,6 +212,36 @@ class Location extends CommonTreeDropdown {
       return true;
    }
 
+   /**
+    * Recibe la localizacion de la entidad matriz a la que pertenece el usuario
+    * Author: Winder Ojeda
+  **/
+   static function getLocationsFromUser() {
+      global $CFG_GLPI;
+      $locations_id = array();
+
+      $DBread = DBConnection::getReadConnection();
+      $DBread->query("SET SESSION group_concat_max_len = 16384;");    
+      
+      $glpilocations = $_SESSION['glpilocations'];
+      array_push($locations_id,$glpilocations );
+      $sql = "SELECT id, locations_id from glpi_locations Where glpi_locations.locations_id =".$glpilocations;  
+
+      $result = $DBread->query($sql);
+      $numrows = $DBread->numrows($result);
+   
+      if($numrows>0){
+        $i = 0;
+        while($i < $numrows){
+          $row = $DBread->fetch_assoc($result);
+          array_push($locations_id,$row["id"]);
+          $i++;
+        }  
+      }
+      $locations_id = implode(",", $locations_id);
+      return $locations_id;
+   }
+
 
    /**
     * Print the HTML array of items for a location
@@ -235,21 +265,44 @@ class Location extends CommonTreeDropdown {
 
       if ($crit) {
          $table = getTableForItemType($crit);
+
+        if($table =='glpi_locations' && $_SESSION['glpilocations']!==0 && $_SESSION["glpiactiveprofile"]["name"]!=='admin' && $_SESSION["glpiactiveprofile"]["name"]!=='super-admin'){
+
+          $query = "SELECT `$table`.`id`, '$crit' AS type
+                   FROM `$table`
+                   WHERE `$table`.`locations_id` IN (".self::getLocationsFromUser().")  ".
+                         getEntitiesRestrictRequest(" AND", $table, "entities_id");
+        } else {  
+
          $query = "SELECT `$table`.`id`, '$crit' AS type
                    FROM `$table`
                    WHERE `$table`.`locations_id` = '$locations_id' ".
                          getEntitiesRestrictRequest(" AND", $table, "entities_id");
+        }
+
       } else {
          foreach ($CFG_GLPI['location_types'] as $type) {
+            
             $table = getTableForItemType($type);
+            
+            if($table =='glpi_locations' && $_SESSION['glpilocations']!==0 && $_SESSION["glpiactiveprofile"]["name"]!=='admin' && $_SESSION["glpiactiveprofile"]["name"]!=='super-admin'){
+
+              $query .= ($first ? "SELECT " : " UNION SELECT  ")."`id`, '$type' AS type
+                      FROM `$table`
+                      WHERE `$table`.`locations_id` IN (".self::getLocationsFromUser().") ".
+                            getEntitiesRestrictRequest(" AND", $table, "entities_id");
+       
+            } else {
+
             $query .= ($first ? "SELECT " : " UNION SELECT  ")."`id`, '$type' AS type
                       FROM `$table`
                       WHERE `$table`.`locations_id` = '$locations_id' ".
                             getEntitiesRestrictRequest(" AND", $table, "entities_id");
+            }
             $first = 0;
          }
       }
-
+      
       $result = $DB->query($query);
       $number = $DB->numrows($result);
       $start  = (isset($_REQUEST['start']) ? intval($_REQUEST['start']) : 0);

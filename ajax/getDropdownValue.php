@@ -63,6 +63,8 @@ if (!($item = getItemForItemtype($_GET['itemtype']))) {
 $table = $item->getTable();
 $datas = array();
 
+
+
 $displaywith = false;
 if (isset($_GET['displaywith'])) {
    if (is_array($_GET['displaywith']) && count($_GET['displaywith'])) {
@@ -117,6 +119,8 @@ if (isset($_GET['used'])) {
    }
 }
 
+
+
 if (isset($_GET['toadd'])) {
    $toadd = $_GET['toadd'];
 } else {
@@ -139,8 +143,10 @@ $count = 0;
 
 
 if ($item instanceof CommonTreeDropdown) {
-
-   if ($one_item >= 0) {
+   if($table =='glpi_locations' && $_SESSION['glpilocations']!==0 && $_SESSION["glpiactiveprofile"]["name"]!=='admin' && $_SESSION["glpiactiveprofile"]["name"]!=='super-admin'){
+      $where .=" AND `$table`.`id` IN (".getLocationsFromUser().") ";
+   }
+   else if ($one_item >= 0) {
       $where .= " AND `$table`.`id` = '$one_item'";
    } else {
       if (!empty($_GET['searchText'])) {
@@ -244,7 +250,7 @@ if ($item instanceof CommonTreeDropdown) {
              $where
              ORDER BY $add_order `$table`.`completename`
              $LIMIT";
-
+   //echo $query;
    if ($result = $DB->query($query)) {
       // Empty search text : display first
       if ($_GET['page'] == 1 && empty($_GET['searchText'])) {
@@ -460,7 +466,10 @@ if ($item instanceof CommonTreeDropdown) {
       $field = "itemtype";
    }
 
-   if ($one_item >= 0) {
+   if($table =='glpi_locations' && $_SESSION['glpilocations']!==0 && $_SESSION["glpiactiveprofile"]["name"]!=='admin' && $_SESSION["glpiactiveprofile"]["name"]!=='super-admin'){
+      $where .=" AND `$table`.`id` IN (".getLocationsFromUser().") ";
+   }
+   else if ($one_item >= 0) {
       $where .=" AND `$table`.`id` = '$one_item'";
    } else {
       if (!empty($_GET['searchText'])) {
@@ -659,5 +668,33 @@ if (($one_item >= 0) && isset($datas[0])) {
    $ret['count']   = $count;
    echo json_encode($ret);
 }
+
+
+
+ function getLocationsFromUser() {
+      global $CFG_GLPI;
+      $locations_id = array();
+
+      $DBread = DBConnection::getReadConnection();
+      $DBread->query("SET SESSION group_concat_max_len = 16384;");    
+      
+      $glpilocations = $_SESSION['glpilocations'];
+      array_push($locations_id,$glpilocations );
+      $sql = "SELECT id, locations_id from glpi_locations Where glpi_locations.locations_id =".$glpilocations;  
+
+      $result = $DBread->query($sql);
+      $numrows = $DBread->numrows($result);
+   
+      if($numrows>0){
+        $i = 0;
+        while($i < $numrows){
+          $row = $DBread->fetch_assoc($result);
+          array_push($locations_id,$row["id"]);
+          $i++;
+        }  
+      }
+      $locations_id = implode(",", $locations_id);
+      return $locations_id;
+   }
 
 ?>

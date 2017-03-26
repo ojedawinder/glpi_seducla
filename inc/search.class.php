@@ -878,10 +878,10 @@ class Search {
    }
 
 
-      /**
+  /**
     * Recibe la localizacion de la entidad matriz a la que pertenece el usuario
     * Author: Winder Ojeda
-   **/
+  **/
    static function getLocationsFromUser() {
       global $CFG_GLPI;
       $locations_id = array();

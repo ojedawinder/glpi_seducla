@@ -3459,6 +3459,9 @@ abstract class CommonITILObject extends CommonDBTM {
                                    $CFG_GLPI["root_doc"]."/ajax/ticketassigninformation.php",
                                    array('users_id_assign' => '__VALUE__'),
                                    "dropdown__users_id_".$typename.$rand);
+          
+          
+          
             echo "</script>";
          }
       }
@@ -3471,7 +3474,11 @@ abstract class CommonITILObject extends CommonDBTM {
          Ajax::updateItemJsCode("notif_".$typename."_$rand",
                                 $CFG_GLPI["root_doc"]."/ajax/uemailUpdate.php", $paramscomment,
                                 "dropdown_".$actor_name.$rand);
+         
+         
+
          echo "</script>";
+
       }
 
       return $rand;
@@ -3695,26 +3702,32 @@ abstract class CommonITILObject extends CommonDBTM {
       if (!$ID) {
          if ($can_admin
              && !$is_hidden['_groups_id_requester']) {
-            echo self::getActorIcon('group', CommonITILActor::REQUESTER);
-            /// For ticket templates : mandatories
-            if (isset($options['_tickettemplate'])) {
-               echo $options['_tickettemplate']->getMandatoryMark('_groups_id_requester');
+            
+            if(self::isAdminOrSuperAdmin()) {
+              echo self::getActorIcon('group', CommonITILActor::REQUESTER);
+              
+              /// For ticket templates : mandatories
+              if (isset($options['_tickettemplate'])) {
+                 echo $options['_tickettemplate']->getMandatoryMark('_groups_id_requester');
+              }
+              echo "&nbsp;";
+
+              Group::dropdown(array('name'      => '_groups_id_requester',
+                                    'value'     => $options["_groups_id_requester"],
+                                    'entity'    => $this->fields["entities_id"],
+                                    'condition' => '`is_requester`'));
             }
-            echo "&nbsp;";
-
-            Group::dropdown(array('name'      => '_groups_id_requester',
-                                  'value'     => $options["_groups_id_requester"],
-                                  'entity'    => $this->fields["entities_id"],
-                                  'condition' => '`is_requester`'));
-
 
          } else { // predefined value
             if (isset($options["_groups_id_requester"]) && $options["_groups_id_requester"]) {
-               echo self::getActorIcon('group', CommonITILActor::REQUESTER)."&nbsp;";
-               echo Dropdown::getDropdownName("glpi_groups", $options["_groups_id_requester"]);
-               echo "<input type='hidden' name='_groups_id_requester' value=\"".
-                      $options["_groups_id_requester"]."\">";
-               echo '<br>';
+              if(self::isAdminOrSuperAdmin()) {
+                echo self::getActorIcon('group', CommonITILActor::REQUESTER)."&nbsp;";
+               
+                echo Dropdown::getDropdownName("glpi_groups", $options["_groups_id_requester"]);
+                echo "<input type='hidden' name='_groups_id_requester' value=\"".
+                        $options["_groups_id_requester"]."\">";
+                echo '<br>';
+              }
             }
          }
       } else if (!$is_hidden['_groups_id_requester']) {
@@ -3760,7 +3773,11 @@ abstract class CommonITILObject extends CommonDBTM {
       }
 
       echo "</div>"; // end .actor-head
-      echo "<div class='actor-content'>";
+      if(!self::isAdminOrSuperAdmin()){
+        echo "<div class='actor-content' style='pointer-events:none'>";
+      }else{
+        echo "<div class='actor-content'>";
+      }
       if ($rand_observer >= 0) {
          $this->showActorAddForm(CommonITILActor::OBSERVER, $rand_observer,
                                  $this->fields['entities_id'], $is_hidden);
@@ -5352,5 +5369,14 @@ abstract class CommonITILObject extends CommonDBTM {
       // End Line for column headers
       echo Search::showEndLine($output_type);
    }
+
+   static function isAdminOrSuperAdmin(){
+     if($_SESSION["glpiactiveprofile"]["name"]!=='admin' && $_SESSION["glpiactiveprofile"]["name"]!=='super-admin'){
+      return false;
+     }
+     return true;
+   }
+
+
 }
 ?>

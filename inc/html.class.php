@@ -4654,6 +4654,7 @@ class Html {
       $js = "";
       $js .= " $('#$field_id').select2({
                         width: '$width',
+                        disabled: true,
                         minimumInputLength: 0,
                         quietMillis: 100,
                         dropdownAutoWidth: true,
@@ -4731,8 +4732,25 @@ class Html {
                   stripslashes($on_change)."});";
       }
 
+      $ids2 = "s2id_".$field_id;
+      
+      if($name=='_users_id_requester' && !self::isAdminOrSuperAdmin()){
+        $js .= " $('#$ids2').css('pointer-events', 'none');";
+      }
+
+      if($name=='_groups_id_requester' && !self::isAdminOrSuperAdmin()){
+        $js .= " $('#$ids2').css('display', 'none');";
+      }
+
       $output .= Html::scriptBlock($js);
       return $output;
+   }
+
+   static function isAdminOrSuperAdmin(){
+     if($_SESSION["glpiactiveprofile"]["name"]!=='admin' && $_SESSION["glpiactiveprofile"]["name"]!=='super-admin'){
+      return false;
+     }
+     return true;
    }
 
 
